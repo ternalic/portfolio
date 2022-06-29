@@ -9,4 +9,6 @@
 - [ ] Added favourite qoute section
 - [x] Fixed dark mode layout issues 
 
+ :memo: **Note:** Built with Bootstrap v5 
+
 
