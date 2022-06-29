@@ -7,6 +7,6 @@
 - [ ] Show cased all the projects done 
 - [ ] Fixation of light mode display
 - [ ] Added favourite qoute section
-- [ ] Fixed dark mode layout issues 
+- [x] Fixed dark mode layout issues 
 
 
