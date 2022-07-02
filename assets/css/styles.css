@@ -852,3 +852,5 @@ body[data-theme="dark"] .text-muted {
     max-width: inherit;
   }
 }
+*{
+font-size:13px;}
