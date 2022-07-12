@@ -850,7 +850,8 @@ body[data-theme="dark"] .text-muted {
   .container {
     width: 1360px;
     max-width: inherit;
-  }
-}
-*{
+  }}
+@media screen and (max-width: 576px){
+p,div,pre,code,kbd,a{
 font-size:14px;}
+} 
